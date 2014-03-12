@@ -1,0 +1,38 @@
+{
+  "name": "hubot-freshdesk",
+  "description": "A hubot script to integrate freshdesk with chat rooms.",
+  "version": "1.0.0",
+  "author": "Bharath MG <mgbharath@ymail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BharathMG/hubot-freshdesk.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/BharathMG/hubot-freshdesk/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
