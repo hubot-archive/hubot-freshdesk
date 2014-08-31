@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git@github.com:BharathMG/hubot-freshdesk.git"
+    "url": "https://github.com/hubot-scripts/hubot-freshdesk"
   },
-
+  
   "bugs": {
-    "url": "https://github.com/BharathMG/hubot-freshdesk/issues"
+    "url": "https://github.com/hubot-scripts/hubot-freshdesk/issues"
   },
 
   "dependencies": {
