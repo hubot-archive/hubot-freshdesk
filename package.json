@@ -1,7 +1,7 @@
 {
   "name": "hubot-freshdesk",
   "description": "A hubot script to integrate freshdesk with chat rooms.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Bharath MG <mgbharath@ymail.com>",
   "license": "MIT",
   "keywords": [
